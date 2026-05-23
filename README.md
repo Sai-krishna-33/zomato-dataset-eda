@@ -58,3 +58,30 @@ zomato-dataset-eda/
 
 ## Author
 Sai Krishna
+
+---
+
+# Project Visualizations
+
+## Correlation Heatmap
+![Heatmap](images/heatmap.png)
+
+---
+
+## Scatter Plot Analysis
+![Scatterplot](images/scatterplot.png)
+
+---
+
+## Boxplot Analysis
+![Boxplot](images/boxplot.png)
+
+---
+
+## Outlier Detection
+![Outliers](images/outliers.png)
+
+---
+
+## Top Cuisines Analysis
+![Top Cuisines](images/top_cuisines.png)
